@@ -113,7 +113,7 @@
 		2EC7FA63685B0E5E5C43C1031D62520A /* Group13New */ = {
 			isa = PBXGroup;
 			children = (
-				455D4E0C211C252600410489 /* Classes */,
+				455D4E0F211C2BB200410489 /* Classes */,
 				CB3D0255381846497086123F6D46E41E /* Pod */,
 				9703AF3EC96C392821923546F397FCAA /* Support Files */,
 			);
@@ -140,12 +140,13 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		455D4E0C211C252600410489 /* Classes */ = {
+		455D4E0F211C2BB200410489 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
 				455D4E0D211C257600410489 /* DateFunc.swift */,
 			);
-			path = Classes;
+			name = Classes;
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 		46FC15FF1EF0C0B11ACA6F291529472C /* Pods-Group13New_Example */ = {
