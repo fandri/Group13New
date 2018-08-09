@@ -1,0 +1,6 @@
+framework module Group13New {
+  umbrella header "Group13New-umbrella.h"
+
+  export *
+  module * { export * }
+}

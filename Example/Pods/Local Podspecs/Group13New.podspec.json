@@ -1,0 +1,22 @@
+{
+  "name": "Group13New",
+  "version": "0.1.0",
+  "summary": "A short description of Group13New.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fandri/Group13New",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fandri": "luffandrifandri@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/fandri/Group13New.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Group13New/Classes/**/*"
+}
